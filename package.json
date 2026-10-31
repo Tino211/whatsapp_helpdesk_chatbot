@@ -1,0 +1,166 @@
+{
+  
+
+  "name": "whatsapp-bot",
+  
+
+  "version": "1.0.0",
+  
+
+  "main": "index.js",
+  
+
+  "scripts": {
+  
+
+    
+
+  "build": "webpack",
+  
+
+    
+
+  "test": "echo \"Error: no test specified\" && exit 1",
+  
+
+    
+
+  "start": "nodemon index.js"
+  
+
+  },
+  
+
+  "keywords": [],
+  
+
+  "author": "",
+  
+
+  "license": "ISC",
+  
+
+  "description": "",
+  
+
+  "dependencies": {
+  
+
+    
+
+  "@google/generative-ai": "^0.24.1",
+  
+
+    
+
+  "assert": "^2.1.0",
+  
+
+    
+
+  "axios": "^1.7.9",
+  
+
+    
+
+  "browserify-zlib": "^0.2.0",
+  
+
+    
+
+  "buffer": "^6.0.3",
+  
+
+    
+
+  "crypto-browserify": "^3.12.1",
+  
+
+    
+
+  "dotenv": "^16.4.7",
+  
+
+    
+
+  "express": "^4.21.2",
+  
+
+    
+
+  "https-browserify": "^1.0.0",
+  
+
+    
+
+  "mysql2": "^3.12.0",
+  
+
+    
+
+  "os-browserify": "^0.3.0",
+  
+
+    
+
+  "path-browserify": "^1.0.1",
+  
+
+    
+
+  "process": "^0.11.10",
+  
+
+    
+
+  "querystring-es3": "^0.2.1",
+  
+
+    
+
+  "stream-browserify": "^3.0.0",
+  
+
+    
+
+  "stream-http": "^3.2.0",
+  
+
+    
+
+  "timers-browserify": "^2.0.12",
+  
+
+    
+
+  "url": "^0.11.4",
+  
+
+    
+
+  "util": "^0.12.5",
+  
+
+    
+
+  "webpack": "^5.99.9",
+  
+
+    
+
+  "workbox-webpack-plugin": "^7.3.0"
+  
+
+  },
+  
+
+  "devDependencies": {
+  
+
+    
+
+  "webpack-cli": "^6.0.1"
+  
+
+  }
+}
